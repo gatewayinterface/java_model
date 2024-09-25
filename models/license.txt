@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hillside Manor - Minecraft
+* source:	https://sketchfab.com/3d-models/hillside-manor-minecraft-551aaa199726470d904bd51b57ea928b
+* author:	cubical.xyz (https://sketchfab.com/cubical)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hillside Manor - Minecraft" (https://sketchfab.com/3d-models/hillside-manor-minecraft-551aaa199726470d904bd51b57ea928b) by cubical.xyz (https://sketchfab.com/cubical) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
