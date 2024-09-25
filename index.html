@@ -55,12 +55,7 @@
         controls.dampingFactor = 0.25;
         controls.screenSpacePanning = false;
         controls.maxPolarAngle = Math.PI / 2;
-
-        function animate() {
-            requestAnimationFrame(animate);
-            if (mixer) mixer.update(0.01); // Update the mixer in each frame
-            controls.update(); // Update controls
-            renderer.render(scene, camera);
+        
         }
         animate();
 
